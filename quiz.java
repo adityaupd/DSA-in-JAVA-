@@ -1,0 +1,22 @@
+public class quiz {
+        /*ANS1=C
+        ANS3=B
+        ANS2=D
+ANS4=B
+ANS5=A
+ANS6=A
+ANS7=A
+ANS8=B
+ANS9=B
+ANS10=C
+ANS11=B
+ANS12=B
+ANS13=A
+ANS14=B
+ANS15=D
+ANS16=C
+ANS17=C
+ANS18=A
+ANS19=B
+ANS20=A*/
+}
